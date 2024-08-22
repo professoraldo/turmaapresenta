@@ -81,21 +81,5 @@ padding: 0 15px;
 grid-template-columns: 05% 30% 65%;
 }
 .estudante{
-    background-color: #10D9FA;
-}
-rodape{
-    background-color: #4f4d4a ;
-    text-align: center;
-}
-.imagemEndereco{
-    width: 200px;
-}
-.endereco{
-    display: flex;
-    justify-content: center;
-    align-items:center;
-}
-.logoRodape{
-    padding: 50px;
-    width: 60px;
+    background-color: #24d629;
 }
