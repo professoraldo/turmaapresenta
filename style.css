@@ -78,7 +78,7 @@ padding: 0 15px;
 }
 .estudante-todos{
     display: grid;
-grid-template-columns: 05% 30% 65%;
+grid-template-columns: 40% 65% 30%;
 }
 .estudante{
     background-color: #24d629;
